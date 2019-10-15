@@ -1,0 +1,41 @@
+[{
+  "rank":"1",
+  "name": "Bitcoin",
+  "url": "https://coinmarketcap.com/currencies/bitcoin/",
+  "market_cap": "1.28805163058e+11",
+  "price": "7601.07",
+  "circulating_supply": "16945662.0",
+  "volume": "5206050000.0",
+  "git": "https://github.com/bitcoin/",
+  "hisdata": [{
+    "date": "Dec 21, 2017",
+    "closing_price": "6.02",
+    "market_cap": "272,353,000"
+  },
+    {
+      "date": "Dec 20, 2017",
+      "closing_price": "6.60",
+      "market_cap": "255,694,000"
+    }]
+
+},
+  {
+    "rank":"2",
+    "name": "Ethereum",
+    "url": "https://coinmarketcap.com/currencies/ethereum/",
+    "market_cap": "41406298538.5",
+    "price": "420.436",
+    "circulating_supply": "98484189.124",
+    "volume": "1539880000.0",
+    "git": "https://github.com/ethereum",
+    "hisdata": [{
+      "date": "Dec 21, 2017",
+      "closing_price": "6.02",
+      "market_cap": "272,353,000"
+    },
+      {
+        "date": "Dec 20, 2017",
+        "closing_price": "6.60",
+        "market_cap": "255,694,000"
+      }]
+  }]
